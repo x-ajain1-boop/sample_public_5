@@ -1,0 +1,8 @@
+{
+  "name": "sample-plugin-5",
+  "description": "A greeting plugin to learn the basics",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name"
+  }
+}

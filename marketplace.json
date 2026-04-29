@@ -1,0 +1,13 @@
+{
+  "name": "sample-plugin5-marketplace",
+  "description": "Sample plugin marketplace for testing Claude Code plugin distribution",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "sample-plugin-5",
+      "description": "A greeting plugin to learn the basics",
+      "path": ".",
+      "version": "1.0.0"
+    }
+  ]
+}
